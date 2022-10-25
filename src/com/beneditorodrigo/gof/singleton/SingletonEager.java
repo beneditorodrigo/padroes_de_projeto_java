@@ -1,4 +1,4 @@
-package src.com.beneditorodrigo.gof;
+package src.com.beneditorodrigo.gof.singleton;
 
 /**
  * Singleton "apressado"
